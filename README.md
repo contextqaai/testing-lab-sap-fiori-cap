@@ -1,3 +1,11 @@
+# ContextQA Testing Lab — SAP web · Fiori / UI5 / CAP
+
+[Start the exercises](lab/README.md) · [Scenario checklist](lab/scenarios.json) · [Stack/platform catalog](https://github.com/contextqaai/testing-lab)
+
+Source available; hosted sessions and ContextQA execution results are not verified. Original project: [SAP-samples/ui5-cap-event-app](https://github.com/SAP-samples/ui5-cap-event-app). Upstream attribution/license remain in this repository. No upstream endorsement is implied.
+
+## Upstream project documentation
+
 # ui5-cap-event-app
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/ui5-cap-event-app)](https://api.reuse.software/info/github.com/SAP-samples/ui5-cap-event-app)

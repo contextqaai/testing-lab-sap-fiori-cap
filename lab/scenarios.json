@@ -1,0 +1,48 @@
+{
+  "title": "SAP web \u00b7 Fiori / UI5 / CAP",
+  "upstream": "https://github.com/SAP-samples/ui5-cap-event-app",
+  "upstream_commit": "e8d098f8cebe7e984b20b71dddccfd6260d981b0",
+  "tags": [
+    "SAP",
+    "Fiori",
+    "UI5",
+    "CAP",
+    "OData",
+    "Node.js"
+  ],
+  "environment": "web-sample",
+  "hosted_url": null,
+  "contextqa_run_verified": false,
+  "scenarios": [
+    {
+      "id": "sap-fiori-cap-01",
+      "title": "Event form",
+      "assertion": "The seeded event can be opened in the registration UI.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "sap-fiori-cap-02",
+      "title": "Registration",
+      "assertion": "A synthetic attendee submission produces the defined result.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "sap-fiori-cap-03",
+      "title": "Administrator view",
+      "assertion": "An authorized test administrator can find the selected registration.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "sap-fiori-cap-04",
+      "title": "Draft behavior",
+      "assertion": "The chosen draft flow behaves as documented for that form.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "sap-fiori-cap-05",
+      "title": "Role boundary",
+      "assertion": "Desired deployment requirement: a regular user cannot access administrator data. Verify real auth setup first; local sample credentials do not prove this.",
+      "status": "exercise-not-executed"
+    }
+  ]
+}
