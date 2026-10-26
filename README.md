@@ -1,3 +1,5 @@
+<a href="https://contextqaai.github.io/testing-lab/"><img src="lab/assets/contextqa-logo.svg" alt="ContextQA" width="200"></a>
+
 # ContextQA Testing Lab — SAP web · Fiori / UI5 / CAP
 
 [Start the exercises](lab/README.md) · [Scenario checklist](lab/scenarios.json) · [Stack/platform catalog](https://github.com/contextqaai/testing-lab)
@@ -98,3 +100,9 @@ Other projects demonstrating similar use-cases:
 
 Copyright (c) 2020-2026 SAP SE or an SAP affiliate company. All rights reserved.
 This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
+
+## ContextQA learning resources
+
+[Public learning hub](https://contextqaai.github.io/testing-lab/) · [Stack/platform setup](https://github.com/contextqaai/testing-lab/blob/main/PLATFORMS.md) · [Report or reproduce an issue](https://github.com/contextqaai/testing-lab-sap-fiori-cap/issues)
+
+This is an educational learning resource. Original source, licenses and credits remain intact. Public report links appear only after actual execution; recorded evidence is labeled separately from a fresh run.
